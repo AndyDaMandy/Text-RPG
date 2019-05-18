@@ -1,5 +1,5 @@
 # Text-RPG
-I'm building a simple RPG to practice my coding!
+I'm building a simple RPG to practice my coding! I'm building this in codepen.io and uploading to github for future reference.
 
 The goal of this project is to have an RPG that:
 1. Allows the player to battle a set of 2-3 enemies.
